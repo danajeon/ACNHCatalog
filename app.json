@@ -3,6 +3,9 @@
     "name": "ACNHCatalog",
     "slug": "ACNHCatalog",
     "version": "1.0.0",
+    "extra": {
+      "apiKey": ""
+    },
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "acnhcatalog",
